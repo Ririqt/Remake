@@ -6,3 +6,6 @@ print("I hope you will become a " + your_dream_job + "!")
 
 your_birth_month = str(input(your_name + "!" + "When is your birth month? "))
 your_school = str(input("What school do you will pursue " + your_dream_job + "?: "))
+
+print("Have a blast on " + your_birth_month + "!")
+print("Study Hard at " + your_school + "!")
